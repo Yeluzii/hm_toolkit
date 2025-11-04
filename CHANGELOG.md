@@ -7,5 +7,12 @@
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html) 规范。
 
 ### Added
+
 - 初始化项目
 - 添加 DateUtils 日期工具类
+- 添加 DeviceInfo 设备信息工具
+- 添加 JsonConverter Json工具
+- 添加 MathKit Math工具
+- 添加 StringUtils 字符串工具
+- 添加 Logger 日志工具
+- 添加 PreferenceUtil 本地存储工具
